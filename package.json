@@ -15,7 +15,7 @@
     "screenshots-clean": "rimraf screenshots/*"
   },
   "dependencies": {
-    "chai": "^4.3.6",
+    "chai": "^4.3.10",
     "log4js": "^6.6.1",
     "mocha": "^10.0.0",
     "selenium-webdriver": "^4.4.0",
